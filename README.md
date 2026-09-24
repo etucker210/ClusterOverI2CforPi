@@ -1,2 +1,2 @@
-# IPCoverI2CfoPi
+# ClusterOverI2CforPi
 A homemade Raspberry Pi distributive controler
